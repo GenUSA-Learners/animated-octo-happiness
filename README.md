@@ -5,5 +5,5 @@ Github Practice exercise
 ## Practice
 
 The brown fox jumped...
-over the lazy dog
-and lazy cat
+
+Over the lady dog
