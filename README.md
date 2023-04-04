@@ -9,3 +9,4 @@ over the lazy dog
 and lazy cat
 and the lazy bat
 and the quiet mouse
+and another animal
