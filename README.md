@@ -6,3 +6,5 @@ Github Practice exercise
 
 The brown fox jumped...
 over the lazy dog
+and lazy cat
+and the lazy bat
