@@ -5,3 +5,6 @@ Github Practice exercise
 ## Practice
 
 The brown fox jumped...
+
+The brown fox jumped 
+over the lazy dog.
